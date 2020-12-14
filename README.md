@@ -4,10 +4,10 @@ Este repositorio contiene:
 - La presentación utilizada.
 - Codigo en Python.
   - Problema detallado simple.
-  - Problema de un modelo de inventarios con demanda aleatoria y aprovisionamiento periódico.
+  - Problema de un modelo de inventarios con demanda aleatoria y aprovisionamiento periódico(Que imprime los graficos del análisis de resultados y de sensibilidad).
 - Problema detallado simple resuleto a mano.
 - Material resumido de respaldo.
-- Material tehorico utilizado para el estudio del problema.
+- Material teórico utilizado para el estudio del problema.
 
 
 ## Enunciado 1:
